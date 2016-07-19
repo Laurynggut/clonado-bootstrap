@@ -1,0 +1,200 @@
+h1 a:link {
+	text-decoration:none;color:black;
+	} 
+h1 a:visited {
+	text-decoration:none;color:black;
+	}
+h1 a:active {
+ 	text-decoration:none;color:black;
+ 	} 
+h1 a:hover {
+	text-decoration:none;color: #f4473a;
+}
+
+
+#perro {
+   margin-top: 30px;
+}
+li {
+   display: inline;
+   margin-right: 25px;
+}
+li a:link {text-decoration:none;color:#666;
+	}
+ li a:visited {
+ 	text-decoration:none;color:#666;
+ 	} 
+ li a:active {
+ 	text-decoration:none;color:#666;
+ } 
+li a:hover {text-decoration:none;color: #f4473a;}
+
+
+.mayusculas{
+	text-transform: uppercase;
+}
+.item {
+	filter: grayscale(100%);
+    }
+
+#nestle{
+	background: rgb(237,86,75);
+	width: 100%;
+	height: 350px;
+	color: white;
+	text-align: center;
+
+}
+.izquierda{
+	    border: 5px solid #fff;
+    	background: transparent;
+    	width: 70px;
+    	height: 70px;
+    	border-radius: 35px;
+    	display: block;
+    	line-height: 65px;
+    	text-align: center;
+    	font-size: 20px;
+    	color:white;
+    	margin-top: 10px;
+    	margin: 70px auto 0px;
+}
+.centro{
+	    border: 5px solid #fff;
+    	background: transparent;
+    	width: 70px;
+    	height: 70px;
+    	border-radius: 35px;
+    	display: block;
+    	line-height: 65px;
+    	text-align: center;
+    	font-size: 20px;
+    	color:white;
+    	margin-top: 10px;
+    	margin: 70px auto 0px;
+}
+.derecho{
+	    border: 5px solid #fff;
+    	background: transparent;
+    	width: 70px;
+    	height: 70px;
+    	border-radius: 35px;
+    	display: block;
+    	line-height: 65px;
+    	text-align: center;
+    	font-size: 20px;
+    	color:white;
+    	margin-top: 10px;
+    	margin: 70px auto 0px;
+}
+
+.guias {
+width: 170px;
+height: 150px;
+}
+.enlacefoticos{
+	color: black;
+
+}
+.enlacefoticos:hover{
+	text-decoration: none;
+	color: black
+
+}
+.negrita{
+	font-weight: bold;
+}
+.barra{
+	border-bottom: 1px solid #D7D0D0;
+	padding-bottom: 20px;
+	color:#A29E9E; 
+
+
+}
+
+
+#navegacionpiedepagina {
+   background: #3b3b3b;
+   width: 100%;
+   height: 300px;
+   border-top: 7px solid #ed564b;
+   color: white;
+   font size:12px;
+  }
+#navegacionpiedepagina a:hover{
+	text-decoration: none;
+	color: white;
+}
+
+footer {
+   background: #292929;
+   width: 100%;
+   height:100px;
+   color: white;
+
+   font-size: 12px;
+   padding: 0px 10px;   
+}
+
+.textoReadMore{
+	background: rgba(255, 255, 255, 0.2);
+   display: block;
+   text-transform: uppercase;
+   color: #fff;
+   width: 150px;
+   border: 1px solid #fff;
+   padding: 5px 0px;
+   margin: 10px auto;
+   font-weight: bold;
+   color: #fff!important;
+}
+#navPie a{
+	color: grey;
+	text-decoration: none;
+
+}
+.flor{
+	color: grey;
+}
+.rosa:hover{
+	color: grey;
+	text-decoration: none;
+}
+.rosa{
+	color: grey;
+	text-decoration: none;
+}
+
+.cactus{
+	color: grey;
+	text-decoration: none;
+}
+
+.espacio{
+	padding-bottom: 30px
+}
+.espacio2{
+	padding-top: 30px;
+}
+
+.carousel-caption{
+   z-index: 101;
+   position:absolute;
+   top:40%;
+}
+.overlay {
+   background: url(imagenes/overlay.png);
+   position: absolute;
+   top: 0;
+   left: 0;
+   height: 100%;
+   width: 100%;
+   z-index: 100;}
+   
+   .rojo{
+   	color: red;
+   	text-decoration: none;
+   }
+   .espacio a:hover{
+   	text-decoration: none;
+   }
